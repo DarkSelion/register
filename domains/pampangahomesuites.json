@@ -2,10 +2,10 @@
   "owner": {
     "username": "DarkSelion",
     "email": "palayjohncarlo@gmail.com"
-
   },
   "records": {
-    "A": ["52.20.101.14"]
+    "A": [
+      "52.20.101.14"
+    ]
   }
 }
-
